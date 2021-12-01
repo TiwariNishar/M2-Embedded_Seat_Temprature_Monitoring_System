@@ -6,12 +6,12 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 
 ## Features
 
-*   A flexible approach system
-*   The implementation of this project leads for adjusting passenger seat temperatures according to their adjustments.
-*   Driver or Passenger has the access to modify the temperature in the vehicle.
-*   As per the passengers requirement, Heater will generate the heat accordingly when they tune the knob of control.
-*   It is best for those countries where the room temperature will be below -5* Celsius .
-*   This system is cost effective and user friendly. 
+*  A flexible approach system
+*  The implementation of this project leads for adjusting passenger seat temperatures according to their adjustments.
+*  Driver or Passenger has the access to modify the temperature in the vehicle.
+*  As per the passengers requirement, Heater will generate the heat accordingly when they tune the knob of control.
+*  It is best for those countries where the room temperature will be below -5* Celsius .
+*  This system is cost effective and user friendly. 
 
 **SWOT- Strengths, and Weakness, Opportunities Threats**
 
@@ -35,10 +35,7 @@ Threats
 
 *  Doesn't fit good for the places where the room temperature is above 20* Celsius.
 
-
-
 ## 4W's and 1'H
-
 
 **WHO**   :   **This project can accessed by customers or end users of automobile industry**
 
@@ -50,12 +47,7 @@ Threats
 
 **HOW**   :   **By implementing Seat temperature Monitoring System.**
 
-
-
-
 ## Detail Requirements
-
-
 
 **High Level Requirements**
 
