@@ -22,6 +22,7 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 |3_Implementation|	All code and documentation|
 |4_Test_plan|	Documents with test plans and procedures|
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e62a42bbe0294c809361767a7dfdd4da)](https://app.codacy.com/gh/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System?utm_source=github.com&utm_medium=referral&utm_content=TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System&utm_campaign=Badge_Grade_Settings)
 [![Compile-Linux](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml)
 
 [![Cppcheck](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml)
