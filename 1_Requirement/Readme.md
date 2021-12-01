@@ -6,34 +6,34 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 
 ## Features
 
-* A flexible approach system
-* The implementation of this project leads for adjusting passenger seat temperatures according to their adjustments.
-* Driver or Passenger has the access to modify the temperature in the vehicle.
-* As per the passengers requirement, Heater will generate the heat accordingly when they tune the knob of control.
-* It is best for those countries where the room temperature will be below -5* Celsius .
-* This system is cost effective and user friendly. 
+*  A flexible approach system
+*  The implementation of this project leads for adjusting passenger seat temperatures according to their adjustments.
+*  Driver or Passenger has the access to modify the temperature in the vehicle.
+*  As per the passengers requirement, Heater will generate the heat accordingly when they tune the knob of control.
+*  It is best for those countries where the room temperature will be below -5* Celsius .
+*  This system is cost effective and user friendly. 
 
 **SWOT- Strengths, and Weakness, Opportunities Threats**
 
 ## Strengths
 
-* Easy adoptable system.
-* We can adjust temperature accordingly in a easier way.
-* Flexible Approach
-* It's a cost-effective and a robust system.
+*  Easy adoptable system.
+*  We can adjust temperature accordingly in a easier way.
+*  Flexible Approach
+*  It's a cost-effective and a robust system.
 
 ## Weakness
 
-* Its only applicable for those countries which are having low temperature.
+*  Its only applicable for those countries which are having low temperature.
 
 ## Opportunities
 
-* If possible we can covert this system to both heater and cooler application
+*  If possible we can covert this system to both heater and cooler application
 Threats
 
 ## Threats
 
-* Doesn't fit good for the places where the room temperature is above 20* Celsius.
+*  Doesn't fit good for the places where the room temperature is above 20* Celsius.
 
 
 
