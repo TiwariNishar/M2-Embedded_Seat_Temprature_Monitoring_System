@@ -1,6 +1,4 @@
 # Test Plans
-
-
 |Test ID|	Description|	Input|	Output|	Status|
 |-------|------------|-------|--------|-------|
 |TID_01|	Is person seated|	push button=1|	push button=1|	PASS|
