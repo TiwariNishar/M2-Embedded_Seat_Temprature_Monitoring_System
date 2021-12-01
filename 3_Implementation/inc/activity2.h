@@ -2,10 +2,10 @@
 #define __ACTIVITY_2_H__
 /**
  * @file activity2.h
- * @author achyuth (akhileshshindhe@gmail.com)
+ * @author Nishar (nisharynr@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-09-16
+ * @date 2021-12-01
  * 
  * @copyright Copyright (c) 2021
  * 
