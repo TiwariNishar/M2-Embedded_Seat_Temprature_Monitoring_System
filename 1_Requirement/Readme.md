@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-## Introduction:
+## Introduction
 
 A Heated seats are a standard feature on many vehicles thesedays in cold areas. They provide the driver and passengers with a pleasantly warm seat at all times, even in winter. The desired temperature is usually set in several levels. This can be activated by control of knob which will be allotted for it or by actuating the buttons manually , depending on the configuration installed. We can also implement the option of adjusting the temperature in the seat cushion and backrest areas according to personal perception of the temperature in each area.Heated seats are used increasingly in conjunction with climate controlled ventilation, which removes any condensing moisture from the seat.
 
@@ -13,8 +13,7 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 * It is best for those countries where the room temperature will be below -5* Celsius .
 * This system is cost effective and user friendly. 
 
-
- **SWOT- Strengths, and Weakness, Opportunities Threats**
+**SWOT- Strengths, and Weakness, Opportunities Threats**
 
 ## Strengths
 
