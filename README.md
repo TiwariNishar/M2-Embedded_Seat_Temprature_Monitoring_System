@@ -28,3 +28,5 @@ A Heated seats are a standard feature on many vehicles thesedays in cold areas. 
 
 
 [![Cppcheck](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml)
+
+[![C/C++ CI](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/c-build.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/c-build.yml)
