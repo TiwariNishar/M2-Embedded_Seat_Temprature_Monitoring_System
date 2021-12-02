@@ -36,16 +36,9 @@ To generate PWM pulses according to the ADC values and displaying it on a CRO.
 |4_Test_plan|	Documents with test plans and procedures|
 
 [![Compile-Linux](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml)
-
 [![Cppcheck](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Codequality.yml)
-
 [![C/C++ CI](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/c-build.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/c-build.yml)
-
 [![Valgrind](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Valgrind.yml)
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ced8fba95ab24a539a975694650b83f1)](https://www.codacy.com/gh/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System&amp;utm_campaign=Badge_Grade)
-
-
 [![Code Quality Score](https://api.codiga.io/project/30207/score/svg)
-
 [![Code Badge](https://api.codiga.io/project/30207/status/svg)
