@@ -1,17 +1,30 @@
 # M2-Embedded_Seat_Temprature_Monitoring_System
 
 ## Introduction
+![image](https://user-images.githubusercontent.com/94336423/144357272-579bac57-9fed-40dd-8d20-fc2865c2a7f4.png)
 
-A Heated seats are a standard feature on many vehicles thesedays in cold areas. They provide the driver and passengers with a pleasantly warm seat at all times, even in winter. The desired temperature is usually set in several levels. This can be activated by control of knob which will be allotted for it or by actuating the buttons manually , depending on the configuration installed. We can also implement the option of adjusting the temperature in the seat cushion and backrest areas according to personal perception of the temperature in each area.Heated seats are used increasingly in conjunction with climate controlled ventilation, which removes any condensing moisture from the seat.
+## Activity 1
 
-## Features
+To turn on led when the passenger is sitting on the seat and the heater is on.
+ 
+ 
+## Activity 2
 
-* A flexible approach system
-* The implementation of this project leads for adjusting passenger seat temperatures according to their adjustments.
-* Driver or Passenger has the access to modify the temperature in the vehicle.
-* As per the passengers requirement, Heater will generate the heat accordingly when they tune the knob of control.
-* It is best for those countries where the room temperature will be below -5* Celsius .
-* This system is cost effective and user friendly.
+To read the values given to the ADC from the temperature sensor.
+
+
+## Activity 3
+
+To generate PWM pulses according to the ADC values and displaying it on a CRO.
+
+
+|ADC value|	Output PWM(Duty Cycle)|	Temperature|
+|---------|-----------------------|------------|
+|0-200|	20%|	20°C|
+|210-500|	40%|	25°C|
+|510-700|	70%|	29°C|
+|710-1024|	90%|	33°C|
+
 
 ## Folder Structure
 
