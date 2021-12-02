@@ -33,7 +33,7 @@ To generate PWM pulses according to the ADC values and displaying it on a CRO.
 |1_Requirements|	Documents detailing requirements and research|
 |2_Design|	Documents specifying design details|
 |3_Implementation|	All code and documentation|
-|4_Implementation|	Documents with Implementation and procedures|
+|4_Simulation|Documents with Simulation and procedures|
 |5_TestPlan|Diffrent Test cases and there Outputs| 
 
 [![Compile-Linux](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/TiwariNishar/M2-Embedded_Seat_Temprature_Monitoring_System/actions/workflows/Compile.yml)
